@@ -1,1 +1,1 @@
-include ':app', ':realm-annotation-api', ':realm-annotation-compiler'
+include ':realm-annotation-api', ':realm-annotation-compiler', ':sample'
